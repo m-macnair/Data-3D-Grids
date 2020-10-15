@@ -1,2 +1,2 @@
 # Data-3D-Grids
-2nd pass at generic grid module
+Classes producing/processing 3 Dimensional grids as SQL, for facilitating translation between complex formats. 
